@@ -51,7 +51,7 @@ here is a example file for register JSON
 For log in you have to hit http://localhost:8081/user/login  point enter information with json file under the body. 
 
 ```http
-  [POST http://localhost:8081/user/register](http://localhost:8081/user/register)
+  [POST http://localhost:8081/user/login](http://localhost:8081/user/login)
 ```
 here is a example file for login JSON
 {
