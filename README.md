@@ -26,7 +26,7 @@ At first you need to register or log in. Without Log in it will not allow you to
 For register you have to hit http://localhost:8081/user/register  point enter information with json file under the body. Here email should be valid and pssword should contain minimum of 8 character with Capital letter and symbol.
 
 ```http
-  [POST /api/items](http://localhost:8081/user/register)
+  [POST http://localhost:8081/user/register](http://localhost:8081/user/register)
 ```
 here is a example file for register JSON
 {
